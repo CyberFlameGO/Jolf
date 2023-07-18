@@ -1,0 +1,1 @@
+call "%~dp0..\Engine\Build\BatchFiles\RunUAT.bat" BuildCookRun -Project=Jolf -ClientConfig=Shipping -Platform=Win64 -Build -Cook -Pak -Stage -Deploy
