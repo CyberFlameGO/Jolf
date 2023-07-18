@@ -1,6 +1,6 @@
 # Jolf
 
-![In-game golf ball preparing to fire](https://github.com/SmartlyDressedGames/Jolf/assets/12567645/dbc2667f-3c87-4193-b249-33a0ae35f8d2)
+![Preparing to fire](https://github.com/SmartlyDressedGames/Jolf/assets/12567645/f010233b-1aa0-4340-8074-f9337f67acec)
 
 Video overview: https://www.youtube.com/watch?v=_YcOjR2V9Uo
 
